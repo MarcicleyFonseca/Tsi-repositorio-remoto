@@ -3,8 +3,10 @@
 #include<locale.h>
 int main(){
 	setlocale(LC_ALL,"Portuguese");
-	printf("\n\t\t>>>TRABALHO COLABORATIVO E MÕDIAS DIGITAIS<<<\n");
-	printf("\n\t\t>>>>>>Alimentando um repositÛrio remoto<<<<<<\n");
-	printf("\n\t\tMarcicley Tom·s da Fonseca - 20222tsis2744\n");
+	printf("\n\t\t>>>TRABALHO COLABORATIVO E M√çDIAS DIGITAIS<<<\n");
+	printf("\n\t\t>>>>>>Alimentando um reposit√≥rio remoto<<<<<<\n");
+	printf("\n\t\tMarcicley Tom√°s da Fonseca - 20222tsis2744\n");
+	printf("\n\t\t PATRICK REGONINI - 20222tsis0202\n");
+	
 	return 0;
 }
